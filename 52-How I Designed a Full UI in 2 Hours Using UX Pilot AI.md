@@ -103,10 +103,11 @@ Here’s what I managed to do:
 
 Honestly, this would’ve taken **6–8 hours** if I started from scratch.
 
+| dashboard 1                                                                          | dashboard 2                                                                          |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | ![](https://abdulkadersafi.com/storage/jXQ5jKkWtFOdvsIoeHXtcuCGSaegxPeYtBkjEIFO.png) | ![](https://abdulkadersafi.com/storage/vX2DsWQCv9JuOpVnC9P9hP2P4LfFWYwP04OCAbME.png) |
 
----
+--
 
 ## Final Thoughts
 
