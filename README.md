@@ -6,9 +6,9 @@ this is all the blog posted on my website
 
 ## ChatGPT Prompt to generate the image
 
-generate for this blog
-the image should be
-16:9 aspect
-white background
-cartoony style
-#60A5FA main color (theme)
+- generate for this blog
+- the image should be
+  - 16:9 aspect
+  - white background
+  - cartoony style
+  - #60A5FA main color (theme)
