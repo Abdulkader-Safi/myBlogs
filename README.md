@@ -12,3 +12,11 @@ this is all the blog posted on my website
   - white background
   - cartoony style
   - #60A5FA main color (theme)
+
+
+write a prompt for chatgpt to generate a image for this blog 110 following this rules
+- the image should be
+  - 16:9 aspect
+  - white background
+  - cartoony style
+  - #60A5FA main color (theme)
