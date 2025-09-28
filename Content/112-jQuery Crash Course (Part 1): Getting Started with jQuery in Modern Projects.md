@@ -127,15 +127,18 @@ jQuery makes handling events elegant.
 
 ```javascript
 // Click event
-$("#myBtn").click(function () {
+$("#myBtn").on("click", () => {
   alert("You clicked the button!");
 });
 
 // Hover event
-$("#myDiv").hover(
-  () => $(this).css("background", "lightblue"),
-  () => $(this).css("background", "white")
-);
+$("#myDiv").on("mouseenter", () => {
+  $("#myBtn").css("background-color", "lightblue");
+});
+
+$("#myDiv").on("mouseleave", () => {
+  $("#myBtn").css("background-color", "white");
+});
 ```
 
 ### 4. Simple Animations
@@ -147,7 +150,7 @@ jQuery comes with built-in effects.
 $("#box").fadeOut(1000);
 
 // Slide toggle
-$("#menuBtn").click(() => {
+$("#menuBtn").on("click", () => {
   $("#menu").slideToggle();
 });
 ```
