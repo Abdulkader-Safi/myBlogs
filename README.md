@@ -13,7 +13,7 @@ this is all the blog posted on my website
   - cartoony style
   - #0f93b4 main color (theme)
 
-write a prompt for chatgpt to generate a image for this blog 110 following this rules
+write a prompt for chatgpt to generate a image for this blog following this rules
 
 - the image should be
   - 16:9 aspect
